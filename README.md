@@ -34,7 +34,7 @@
 
 ## <h3 align="start"><a id="title2">Описание решения 📝</a></h3>
 
-![Альтернативный текст](https://github.com/Yagorka/LLAIM_rzd/blob/main/images/photo_2024-10-13_09-19-30.jpg)
+![](https://github.com/ioann2233/Feature_88_Krasnodar/blob/main/%D1%83%D1%81%D0%BA%D0%BE%D1%801.gif)
 
 
 *Телеграмм-бот (удобство) 📍
